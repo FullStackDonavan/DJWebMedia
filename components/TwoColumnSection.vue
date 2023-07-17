@@ -37,7 +37,7 @@
     </div>
     <div class="grid grid-cols-2 gap-4 items-center" v-else>
       <div>
-        <img src="~/images/contractor-marketing-program.jpg" />
+        <nuxt-img src="~/images/contractor-marketing-program.jpg" />
       </div>
       <div>
         <p
