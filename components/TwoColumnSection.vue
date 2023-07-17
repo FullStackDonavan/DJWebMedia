@@ -29,7 +29,10 @@
         </div>
       </div>
       <div>
-        <img src="~/assets/images/contractor-marketing-program.jpg" />
+        <nuxt-img
+          format="webp"
+          src="~/assets/images/contractor-marketing-program.jpg"
+        />
       </div>
     </div>
     <div class="grid grid-cols-2 gap-4 items-center" v-else>
