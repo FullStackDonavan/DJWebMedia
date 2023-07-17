@@ -31,13 +31,13 @@
       <div>
         <nuxt-img
           format="webp"
-          src="~/assets/images/contractor-marketing-program.jpg"
+          src="~/images/contractor-marketing-program.jpg"
         />
       </div>
     </div>
     <div class="grid grid-cols-2 gap-4 items-center" v-else>
       <div>
-        <img src="~/assets/images/contractor-marketing-program.jpg" />
+        <img src="~/images/contractor-marketing-program.jpg" />
       </div>
       <div>
         <p
